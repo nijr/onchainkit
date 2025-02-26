@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.37.5
+
+### Patch Changes
+
+- 32d2795: - **fix** update useOutsideClick to handle portals. fixes issue with WalletAdvancedSwap. by @brendan-defi #2043
+
 ## 0.37.4
 
 ### Patch Changes
